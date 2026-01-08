@@ -1,4 +1,4 @@
-# fastapi-react-vite-llm-streaming-demo
+# fastapi-react-openai-websocket-demo
 
 A tiny full-stack demo that teaches the “full-stack AI app” basics: a FastAPI backend (REST + WebSockets) and a Vite/React frontend that streams an LLM response in real time.
 
