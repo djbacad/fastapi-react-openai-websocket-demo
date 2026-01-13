@@ -1,6 +1,6 @@
 # fastapi-react-openai-websocket-demo
 
-A tiny full-stack demo that teaches the “full-stack AI app” basics: a FastAPI backend (REST + WebSockets) and a Vite/React frontend that streams an LLM response in real time.
+A tiny full-stack demo consisting of a FastAPI backend (REST + WebSockets) and a Vite/React frontend that streams an LLM response in real time.
 
 <p align="center">
   <img src="landingpage.jpg" alt="App landing page screenshot" width="1100" />
